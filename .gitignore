@@ -1,0 +1,25 @@
+
+# build
+build/
+*.apk
+*.ap_
+
+# java
+*.class
+
+# idea
+*.iml
+.idea/
+
+# gradle
+.gradle
+
+# generated
+build.xml
+local.properties
+
+# misc
+.DS_Store
+*/.gitignore
+captures/
+
