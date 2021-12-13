@@ -13,6 +13,8 @@ for the words app in Android Basics [Unit 3](https://developer.android.com/cours
 
 ## Learning Outcomes
 - Use implicit and explicit `Intents`.
+- Use `Fragments` and the Jetpack Navigation Component.
+- Use SafeArgs to pass arguments between `Fragments`.
 - Create an options menu in the `App Bar`.
 - Interactively change the layout of a `RecyclerView`.
 - Create *instrumentation tests* for app navigation.
